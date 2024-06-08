@@ -1,0 +1,90 @@
+/* seletor geral (remover todos os espeçamentos que é padrao do html*/
+* {
+    margin:0%;
+    border: 0%;
+    padding: 0%;
+}
+
+.cor-de-fundo {
+    background-color: white;   
+}
+
+.cor-link:link, .cor-link:visited{
+    color: white !important;
+    text-decoration: none;
+}
+    
+.cor-link:hover, .cor-link:active{
+    color: white !important;
+}
+
+.cor-da-fonte{
+    color: #25b9d3
+}
+
+.cor2{
+    color: #d85abd;
+}
+
+
+.mt-5{
+      margin-top: 4rem !important;
+}
+
+.fonte-logo{
+    font-size: 15px !important;
+    float: inline-end;
+    
+}
+
+.flut{
+    float: inline-end;
+    font-size: 15px;
+    
+}
+
+.text-top{
+    float:right;
+    margin-bottom: 100px;
+    background-color:
+    
+}
+
+.bordaft{
+    background-color: #115918;
+    
+}
+
+.mgtx1 {
+    margin-top: 25%
+}
+
+.mgtx2{
+    margin-top: 25%
+}
+
+.mgtx3{
+    margin-top: 25%
+}
+
+.mgtx4{
+    margin-top: 25%
+}
+
+.color1{
+    color: #d85abd;
+    font-size: 25px;
+}
+
+.color2{
+    color: #63b0f0;
+    font-size: 25px;
+}
+
+.color3{
+    color: #d85abd;
+    font-size: 25px;
+    padding: 3px;
+}
+
+
